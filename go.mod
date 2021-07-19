@@ -1,4 +1,4 @@
-module github.com/yaegashi/msgraph.go
+module github.com/jmcarbo/msgraph.go
 
 go 1.12
 

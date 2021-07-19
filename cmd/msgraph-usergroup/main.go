@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/google/uuid"
-	msgraph "github.com/yaegashi/msgraph.go/beta"
+	msgraph "github.com/jmcarbo/msgraph.go/beta"
 	"github.com/yaegashi/msgraph.go/jsonx"
 	"github.com/yaegashi/msgraph.go/msauth"
 	P "github.com/yaegashi/msgraph.go/ptr"
@@ -17,9 +17,9 @@ import (
 
 // Default ID and secret: you should replace them with your own
 const (
-	defaultTenantID     = "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
-	defaultClientID     = "YYYYYYYY-YYYY-YYYY-YYYY-YYYYYYYYYYYY"
-	defaultClientSecret = "ZZZZZZZZZZZZZZZZZZZZZZZZ"
+	defaultTenantID     = "805e55bf-782f-42a2-bf0d-081c66d2fb4c"
+	defaultClientID     = "2fc5caf6-076b-41e0-abde-4c867635aba5"
+	defaultClientSecret = "npukHH074tDc9iQPZHMUF.c9-J~u6b81~V"
 )
 
 // Default user: you should replace it with your own
