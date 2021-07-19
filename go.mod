@@ -1,11 +1,11 @@
 module github.com/jmcarbo/msgraph.go
 
-go 1.12
+go 1.16
 
 require (
-	github.com/google/uuid v1.1.1
-	github.com/rickb777/date v1.12.4
+	github.com/rickb777/date v1.15.3
+	github.com/yaegashi/msgraph.go v0.1.4
 	github.com/yaegashi/wtz.go v0.0.2
-	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/tools v0.0.0-20200731060945-b5fad4ed8dd6
+	golang.org/x/oauth2 v0.0.0-20210628180205-a41e5a781914
+	golang.org/x/tools v0.1.5
 )
